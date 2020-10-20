@@ -23,5 +23,7 @@ public class Main {
 
         System.out.println("The fucking changes!");
 
+        System.out.println("Right on people!");
+
     }
 }
