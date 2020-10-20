@@ -21,5 +21,7 @@ public class Main {
 
         System.out.println("Hi there");
 
+        System.out.println("The fucking changes!");
+
     }
 }
